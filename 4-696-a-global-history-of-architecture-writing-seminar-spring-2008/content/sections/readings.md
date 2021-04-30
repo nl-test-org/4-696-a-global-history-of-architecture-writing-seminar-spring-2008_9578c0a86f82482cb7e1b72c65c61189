@@ -1,0 +1,29 @@
+---
+course_id: 4-696-a-global-history-of-architecture-writing-seminar-spring-2008
+layout: course_section
+menu:
+  leftnav:
+    identifier: 161c4d5968a5e9ee5694f388a48e59c4
+    name: Readings
+    weight: 20
+title: Readings
+type: course
+uid: 161c4d5968a5e9ee5694f388a48e59c4
+
+---
+
+| SES # | TOPICS | READINGS |
+| --- | --- | --- |
+| 1 | Introduction | &nbsp; |
+| 2 | Conceptualizing "the global" |  {{< br >}}{{< br >}} Mazlish, Bruce, and Ralph Buultjens, eds. _Conceptualizing Global History_. Boulder, CO: Westview Press, 1993. ISBN: 9780974369235. {{< br >}}{{< br >}} Mazlish, Bruce. "[The New Global History](http://web.mit.edu/newglobalhistory/articles.html)." {{< br >}}{{< br >}} Gills, Barry, and William Thompson, eds. _Globalization and Global History_. New York, NY: Routledge, 2006, chapters 1-2. ISBN: 9780415701365. {{< br >}}{{< br >}} Fuglestad, Finn. _The Ambiguities of History: The Problem of Ethnocentrism in Historical Writing_. Oslo, Norway: Oslo Academic Press, 2005. ISBN: 9788274772045. {{< br >}}{{< br >}} Jarzombek, Mark. "A Prolegomenon to Critical Historiography." In _The Psychologizing of Modernity: Art, Architecture and History_. Cambridge, UK: Cambridge University Press, 2000. ISBN: 9780521582384. Also in _Journal of the Society of Architectural Historians_ 58, no. 4 (December 1999): 488-493. {{< br >}}{{< br >}}  |
+| 3 | Comparative "globality" in architectural history textbooks |  {{< br >}}{{< br >}} Bergdoll, Barry. _European Architecture 1750-1890_. Oxford, UK: Oxford University Press, 2000. ISBN: 9780192842220. {{< br >}}{{< br >}} Canizares-Esguerra, Jorge, and Erik Seeman, eds. _The Atlantic in Global History: 1500-2000_. Upper Saddle River, NJ: Pearson Prentice Hall, 2007. ISBN: 9780131927148. {{< br >}}{{< br >}} Trachtenberg, Marvin, and Isabelle Hyman. _Architecture: From Prehistory to Postmodernity_. Upper Saddle River, NJ: Prentice Hall, 2002. ISBN: 9780810906075. {{< br >}}{{< br >}} Kostof, Spiro. _A History of Architecture: Settings and Rituals_. New York, NY: Oxford University Press, 1995. ISBN: 9780195083798. {{< br >}}{{< br >}} Scully, Vincent. _Architecture: The Natural and the Manmade_. New York, NY: St. Martin's Press, 1991. ISBN: 9780312062927. {{< br >}}{{< br >}} Stavrianos, Leften. _A Global History: From Prehistory to the 21st Century_. Upper Saddle River, NJ: Prentice Hall, 1999. ISBN: 9780139238970. {{< br >}}{{< br >}} Stokstad, Marilyn. _Art History_. 3rd ed. Upper Saddle River, NJ: Prentice Hall, 2007. ISBN: 9780132250672. {{< br >}}{{< br >}}  |
+| 4 | The global and art history |  {{< br >}}{{< br >}} Elkins, James, ed. _Is Art History Global_? New York, NY: Routledge, 2007. ISBN: 9780415977852. {{< br >}}{{< br >}} Dussel, Enrique. "Beyond Eurocentrism: The World-System and the Limits of Modernity." In _The Cultures of Globalization_. Edited by Fredric Jameson and Masao Miyoshi. Durham, NC: Duke University Press, 1998. ISBN: 9780822321699. {{< br >}}{{< br >}}  |
+| 5 | Euro-centrism and ethno-centrism |  {{< br >}}{{< br >}} Preiswork, Roy, and Dominique Perrot. _Ethnocentrism and History: Africa, Asia, and Indian America in Western Textbooks_. New York, NY: NOK Publishers, 1978. ISBN: 9780883570715. {{< br >}}{{< br >}} Baudet, E. H. P. _Paradise on Earth: Some Thoughts on European Images of Non-European Man_. Translated by Elizabeth Wentholt. New Haven, CT: Yale University Press, 1965. {{< br >}}{{< br >}} Rüsen, Jörn. "How to Overcome Ethnocentrism: Approaches to a Culture of Recognition by History in the Twenty-First Century." _History and Theory: Studies in the Philosophy of History_ 43 (2004): 118-129. {{< br >}}{{< br >}}  |
+| 6 | Large perspective histories |  {{< br >}}{{< br >}} Kurlansky, Mark. _Salt: A World History_. New York, NY: Penguin, 2003. ISBN: 9780142001615. {{< br >}}{{< br >}} Diamond, Jared. _Collapse: How Societies Choose To Fail or Succeed_. New York, NY: Penguin, 2005. ISBN: 9780143036555. {{< br >}}{{< br >}}  |
+| 7 | Example lecture (the Pantheon: a comparative historiographic analysis) | &nbsp; |
+| 8 | Some global hot points |  {{< br >}}{{< br >}} Esherick, Joseph. _Empire to Nation. Historical Perspectives on the Making of the Modern World_. London, UK: Rowman and Littlefield, 2006. ISBN: 9780742540316. {{< br >}}{{< br >}} Inikori, Joseph. "Africa and the Globalization Process: Western Africa, 1450-1850." _Journal of Global History_ 2, no. 1 (2007): 63-86. {{< br >}}{{< br >}} Thompson, Andrew. _The Empire Strikes Back? The Impact of Imperialism on Britain from the Mid-Nineteenth Century_. Upper Saddle River, NJ: Pearson Longman, 2005. ISBN: 9780582438293. {{< br >}}{{< br >}} Topik, Steven, Carlos Marichal, and Zephyr Frank, eds. _From Silver to Cocaine: Latin American Commodity Chains and the Building of the World Economy, 1500-2000_. Durham, NC: Duke University Press, 2006. ISBN: 9780822337669. {{< br >}}{{< br >}} Vink, Markus. "Indian Ocean Studies and the 'New Thalassology'." _Journal of Global History_ 2 (2007): 41-62. {{< br >}}{{< br >}} Jackson, Peter. _The Mongols and the West, 1221-1410_. Upper Saddle River, NJ: Pearson Longman, 2005. ISBN: 9780582368965. {{< br >}}{{< br >}}  |
+| 9 | Some global hot points (cont.) |  {{< br >}}{{< br >}} Prange, Sebastian. "'Trust in God, but Tie Your Camel First.' The Economic Organization of the Trans-Saharan Slave Trade Between the Fourteenth and Nineteenth Centuries." _Journal of Global History_ 1 (2006): 219-239. {{< br >}}{{< br >}} Gills, Barry, and William Thompson, eds. _Globalization and Global History_. New York, NY: Routledge, 2006, chapters 8-9. ISBN: 9780415701365. {{< br >}}{{< br >}}  |
+| 10 | Discussion | &nbsp; |
+| 11 | Student presentations | &nbsp; |
+| 12 | Student presentations (cont.) | &nbsp; |
+| 13 | Student presentations (cont.) |
